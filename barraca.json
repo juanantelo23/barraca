@@ -1,0 +1,164 @@
+{
+  "productos": [
+      {
+          "id": 1,
+          "nombre": "Madera de Pino",
+          "descripcion": "Madera de pino de alta calidad para construcción.",
+          "cantidad_stock": 100,
+          "costo_asociado": 30,
+          "imagen": "data:image/jpeg;base64,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"
+      },
+      {
+          "id": 2,
+          "nombre": "Bloque de Cemento",
+          "descripcion": "Bloque de cemento estándar para construcción.",
+          "cantidad_stock": 150,
+          "costo_asociado": 10,
+          "imagen": "https://www.arquibase.com/uploads/8/3/4/5/8345765/bloques-de-hormigon-cemento-concreto_orig.jpg"
+      },
+      {
+          "id": 3,
+          "nombre": "Varilla de Hierro",
+          "descripcion": "Varilla de hierro para refuerzo estructural.",
+          "cantidad_stock": 200,
+          "costo_asociado": 25,
+          "imagen": "https://blog.deacero.com/hs-fs/hubfs/Viaducto%20Sta.%20Catarina%20Varilla%20Deacero%20%20%20%20%20%20%2019.jpg?width=7952&name=Viaducto%20Sta.%20Catarina%20Varilla%20Deacero%20%20%20%20%20%20%2019.jpg"
+      },
+      {
+          "id": 4,
+          "nombre": "Cerámica para Pisos",
+          "descripcion": "Cerámica de alta calidad para revestimiento de pisos.",
+          "cantidad_stock": 80,
+          "costo_asociado": 20,
+          "imagen": "https://i8.amplience.net/i/flooranddecor/100964212_dayton-natural-wood-plank-ceramic-tile_display?fmt=auto&qlt=85"
+      },
+      {
+          "id": 5,
+          "nombre": "Ladrillo Común",
+          "descripcion": "Ladrillo común para construcción de muros.",
+          "cantidad_stock": 300,
+          "costo_asociado": 8,
+          "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Stapel_bakstenen_-_Pile_of_bricks_2005_Fruggo.jpg/1200px-Stapel_bakstenen_-_Pile_of_bricks_2005_Fruggo.jpg"
+      },
+      {
+          "id": 6,
+          "nombre": "Teja de Barro",
+          "descripcion": "Teja de barro para cubierta de techos.",
+          "cantidad_stock": 120,
+          "costo_asociado": 15,
+          "imagen": "https://materialrustico.com/wp/wp-content/uploads/2021/09/Teja-Media-Cana-terracota.jpg"
+      },
+      {
+          "id": 7,
+          "nombre": "Tubo PVC",
+          "descripcion": "Tubo de PVC para sistemas de agua.",
+          "cantidad_stock": 250,
+          "costo_asociado": 5,
+          "imagen": "https://gerdaumetaldom.com/storage/app/uploads/public/5ec/45d/a6d/5ec45da6da67a434414168.jpg"
+      },
+      {
+          "id": 8,
+          "nombre": "Clavo de Acero",
+          "descripcion": "Clavo de acero para fijación en construcción.",
+          "cantidad_stock": 400,
+          "costo_asociado": 0.5,
+          "imagen": "https://promart.vteximg.com.br/arquivos/ids/530278-1000-1000/13616.jpg?v=637357003308030000"
+      },
+      {
+          "id": 9,
+          "nombre": "Chapa de Madera",
+          "descripcion": "Chapa de madera para puertas y muebles.",
+          "cantidad_stock": 100,
+          "costo_asociado": 12,
+          "imagen": "https://2.bp.blogspot.com/-9EcK465O-_A/UjND7Dcdh9I/AAAAAAAAD5E/loDoVbHeY-o/s1600/chapas+madera.jpg"
+      },
+      {
+          "id": 10,
+          "nombre": "Ventana de Aluminio",
+          "descripcion": "Ventana de aluminio para construcción.",
+          "cantidad_stock": 70,
+          "costo_asociado": 40,
+          "imagen": "https://i.pinimg.com/550x/6c/7a/bd/6c7abd0940d3cfe7ed9b17aa3a5288e1.jpg"
+      },
+      {
+          "id": 11,
+          "nombre": "Aislante Térmico",
+          "descripcion": "Material aislante térmico para edificaciones.",
+          "cantidad_stock": 200,
+          "costo_asociado": 18,
+          "imagen": ""
+      },
+      {
+          "id": 12,
+          "nombre": "Tornillo Autoperforante",
+          "descripcion": "Tornillo autoperforante para fijación en metal.",
+          "cantidad_stock": 500,
+          "costo_asociado": 0.3,
+          "imagen": "https://cdn.ready-market.com/101/1881a40b//Templates/pic/self-dirlling-screws-3.jpg?v=84c7c891"
+      },
+      {
+          "id": 13,
+          "nombre": "Hormigón Preparado",
+          "descripcion": "Hormigón premezclado para construcción.",
+          "cantidad_stock": 150,
+          "costo_asociado": 35,
+          "imagen": "https://static.innovaweb.cl/wordpress/bekron_web_wp/2019/12/bemezcla-hormigonpreparado-h30-fr-25kg-packshot-sideview-cl.png"
+      },
+      {
+          "id": 14,
+          "nombre": "Cemento de Secado Rápido",
+          "descripcion": "Cemento de secado rápido para reparaciones.",
+          "cantidad_stock": 100,
+          "costo_asociado": 12,
+          "imagen": "https://http2.mlstatic.com/D_NQ_NP_619678-MLA69837021903_062023-O.webp"
+      },
+      {
+          "id": 15,
+          "nombre": "Tubo Galvanizado",
+          "descripcion": "Tubo galvanizado para instalaciones.",
+          "cantidad_stock": 180,
+          "costo_asociado": 7,
+          "imagen": "https://hierrosur.com.uy/files/32/57236a890ad21.jpeg"
+      },
+      {
+          "id": 16,
+          "nombre": "Vigas de Acero",
+          "descripcion": "Vigas de acero para estructuras.",
+          "cantidad_stock": 90,
+          "costo_asociado": 50,
+          "imagen": "https://panelyacanalados.com/wp-content/uploads/2022/03/vigas-de-acero-descansando-una-sobre-otra-en-el-piso.jpg"
+      },
+      {
+          "id": 17,
+          "nombre": "Aglomerado de Madera",
+          "descripcion": "Aglomerado de madera para muebles.",
+          "cantidad_stock": 120,
+          "costo_asociado": 8,
+          "imagen": "https://mesurex.com/wp-content/uploads/2020/09/aglomerado-730x350.jpg"
+      },
+      {
+          "id": 18,
+          "nombre": "Tela Asfáltica",
+          "descripcion": "Tela asfáltica para impermeabilización de techos.",
+          "cantidad_stock": 200,
+          "costo_asociado": 22,
+          "imagen": "https://media.adeo.com/media/2947225/format/jpeg"
+      },
+      {
+          "id": 19,
+          "nombre": "Tubo de Cobre",
+          "descripcion": "Tubo de cobre para instalaciones de agua.",
+          "cantidad_stock": 150,
+          "costo_asociado": 6,
+          "imagen": "https://www.bronmetal.com/wp-content/uploads/2020/03/tubos-cobre-uso-industrial.jpg"
+      },
+      {
+          "id": 20,
+          "nombre": "Pintura para Interiores",
+          "descripcion": "Pintura de alta calidad para interiores.",
+          "cantidad_stock": 80,
+          "costo_asociado": 18,
+          "imagen": "https://images.hola.com/imagenes/decoracion/20210824193846/como-elegir-pintura-paredes-decoracion-interiores-am/0-980-566/pintura-y-colores-13t-t.jpg"
+      }
+  ]
+}
